@@ -1,0 +1,10 @@
+bin/
+*.obj
+*.mtl
+*.blend*
+*.sh
+*.jar
+.classpath
+.project
+.settings
+
